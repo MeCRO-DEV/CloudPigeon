@@ -1040,6 +1040,7 @@ class CloudPigeon(QMainWindow):
 
     def help_content(self):
         return """
+            <HR>
             <p><font color='yellow'><b>What is CloudPigeon?</b></font></p>
             <p>CloudPigeon is a powerful file encryption tool designed to protect your privacy and secure your sensitive data when using cloud storage services. In today's digital world, cloud storage has become an essential part of our lives, but it also raises concerns about data privacy and security.</p>
 
