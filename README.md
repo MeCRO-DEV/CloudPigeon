@@ -64,3 +64,7 @@ The ciphertext folder needs to be pointed to a local folder that is mapped to yo
 - Files are encrypted using AES-256 encryption, a globally trusted standard.
 - Encryption is performed locally on your computer for maximum security.
 - No data is transmitted to any external servers during encryption/decryption.
+
+## Screenshots
+![image](https://github.com/user-attachments/assets/83f30de5-32b0-46e5-b83f-7020625a5738)
+![image](https://github.com/user-attachments/assets/4888a60f-ec8c-4161-b41d-0d25900f4a48)
